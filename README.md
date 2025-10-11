@@ -21,13 +21,9 @@ This repository documents my **week-by-week progress** with tasks inside each we
 | Task | Description | Status |
 |------|-------------|--------|
 | [**Task 0**](Task0/README.md) | 🛠️ Tools Installation — Installed **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
-<<<<<<< HEAD
-| [**Task 1/week 1**](Week1) | 🛠️ Tools Uaage- **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
-=======
 | [**Task 1/week 1**](Week1) | 🛠️ Tools Usage- **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
 | [**Task 2/week 2**](Week2) | 🛠️ Tools Usage- **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
-
->>>>>>> 8cf8dcc (Week 2 Commit)
+| [**Task 3/week 3**](Week3) | 🛠️ Tools Usage-  **Yosys**, and **GTKWave** | ✅ Done |
 ---
 
 ### 📺 Resizing Ubuntu VM for Better Display
@@ -89,8 +85,6 @@ RISC-V Reference SoC Tapeout Program
 
 Completed Week 1 GitHub repository submission
 
-<<<<<<< HEAD
-=======
 ## 📅 Week 2 — Fundamentals of SoC Design
 
 | Task       | Description | Status |
@@ -110,7 +104,6 @@ Completed Week 1 GitHub repository submission
 
 Completed Week 2 Github repo submission
 
->>>>>>> 8cf8dcc (Week 2 Commit)
 ## Acknowledgment  
 
 I am sincerely thankful to [**Kunal Ghosh**](https://github.com/kunalg123) and **[VLSI System Design (VSD)](https://vsdiat.vlsisystemdesign.com/)** for the invaluable opportunity to participate in the RISC-V SoC Tapeout Program, which has been a tremendous learning experience.
@@ -121,14 +114,10 @@ A special note of appreciation goes to [**ChatGPT (OpenAI)**](https://chatgpt.co
 
 ## 📈 **Weekly Progress Tracker**
 
-[![Week 0](https://img.shields.io/badge/Week%200-Tools%20Setup-green?style=flat-square)](Task0)
-[![Week 1](https://img.shields.io/badge/Week%201-Tools%20Usage-green?style=flat-square)](Week1)
-<<<<<<< HEAD
-![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)
-=======
+[![Week 0](https://img.shields.io/badge/Week%200-Tools%20Setup-success?style=flat-square)](Task0)
+[![Week 1](https://img.shields.io/badge/Week%201-Tools%20Usage-success?style=flat-square)](Week1)
 [![Week 2](https://img.shields.io/badge/Week%202-SoC%20VSDBaby-success?style=flat-square)](Week2/README.md)
->>>>>>> 8cf8dcc (Week 2 Commit)
-
+[![Week 3](https://img.shields.io/badge/Week%202-SoC%20VSDBaby-success?style=flat-square)](Week3/README.md)
 
 
 **🔗 Program Links:**
